@@ -4,4 +4,4 @@ ssl/
 Project.docx
 credentials.json
 audio_features.json
-
+.env
