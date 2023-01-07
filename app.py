@@ -101,7 +101,7 @@ app.secret_key = 'super_secret_key'
 # defining global variables - spotify dev API
 BASE_URL = 'https://accounts.spotify.com'
 CLIENT_ID = 'a4c66247a69247e1b3a8ae4665f94753'
-CLIENT_SECRET = 'f5881cfae1e84f0e8e054347260ce547'
+CLIENT_SECRET = # :P
 CLIENT_SIDE_URL = 'http://127.0.0.1'
 PORT = 5000
 REDIRECT_URI = f'{CLIENT_SIDE_URL}:{PORT}/callback'
