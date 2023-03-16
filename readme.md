@@ -1,4 +1,4 @@
-# Spotify Project 
+# Song genre detection Project 
 
 ## Description
 This is an end to end Spotify genre detection system app that allows users to know what are the most popular genres currently being listened to. The Spotify API was used to authenticate users and stream audio features data of their top 300 songs - 50 top tracks and 250 playlist tracks. 
